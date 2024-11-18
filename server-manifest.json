@@ -1,0 +1,47 @@
+{
+  "name": "Bounty Hunter",
+  "author": "肖雪笙",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://github.com/BronyaNB/mc/blob/main",
+  "files": [
+    {
+      "path": "hmclversion.cfg",
+      "hash": "f66aac73e25510750dc91999f2bfd624ab589371"
+    },
+    {
+      "path": "resourcepacks/Bounty Hunter-i18n汉化包.zip",
+      "hash": "87a77c9f6d692b7811e6cd23da13cf647111a863"
+    },
+    {
+      "path": "resourcepacks/Bounty Hunter-定制UI.zip",
+      "hash": "260f3e8fb3e9c40b01c562ba0ea57d332d84711d"
+    },
+    {
+      "path": "resourcepacks/Bounty Hunter-探险家指南针结构汉化(群友you_hun提供).zip",
+      "hash": "ccff510cbf839d6d88a3c844c3236b2e15c65c10"
+    },
+    {
+      "path": "resourcepacks/Bounty Hunter-补充汉化材质包-1.20.1.zip",
+      "hash": "153b47e1f4a361a5c2f366200a284153b387f618"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
+      "hash": "6f888a8509581bba56ab2748ea3316cf279f22e3"
+    },
+    {
+      "path": "resourcepacks/Quark Programmer Art.zip",
+      "hash": "2f4cadbbaeffec5f2811b34e053450a930626c15"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.3.0"
+    }
+  ]
+}
